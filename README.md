@@ -1,4 +1,4 @@
-# Spotify Beat Sync
- An web app which allows users to create a "room" and collectivley skip or pause songs. 
+# Spotify Music Sync App
+ A web app that allows users to create a "room" and collectively skip or pause songs. 
 
- The project is based off and references the following turorial: https://github.com/techwithtim/Music-Controller-Web-App-Tutorial
+ The project is based off and references the following tutorial: https://github.com/techwithtim/Music-Controller-Web-App-Tutorial
